@@ -1,0 +1,33 @@
+.nav {
+  display: flex;
+  justify-content: center;
+}
+
+.clusterNav {
+  display: flex;
+  justify-content: space-between
+}
+
+.buttonCluster {
+  display: flex;
+}
+
+.card {
+}
+
+.cardRow {
+display: flex;
+justify-content: space-between;
+}
+
+.contentCluster{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.clusterCard {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
